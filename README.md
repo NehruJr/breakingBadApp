@@ -1,6 +1,9 @@
-# breakingbad
+# Breaking Bad App 
 
 A new Flutter project.
+
+Api Link :
+https://breakingbadapi.com/
 
 ## Getting Started
 
