@@ -5,6 +5,16 @@ A new Flutter project.
 Api Link :
 https://breakingbadapi.com/
 
+# Screenshots
+
+## Characters screen
+
+![alt text](https://i.ibb.co/WzxWcmp/Screenshot-1631506737.png) 
+
+## Character details screen
+
+![alt text](https://i.ibb.co/9t7skMQ/Screenshot-1631506749.png[) 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
